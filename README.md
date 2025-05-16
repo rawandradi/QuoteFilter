@@ -7,5 +7,5 @@ This project implements a simple search filter using JavaScript. It fetches quot
 
 1. Clone or download this repository.
 2. Open `index.html` in any web browser.
-3. Type in the search box to filter quotes dynamically.
+3. Type in the search box to filter quotes.
 
